@@ -1,6 +1,6 @@
 # Charting Covid-19 Impact to California's Food Assistance Program
 
-## University of California Davis Data Analytics and Visualization Boot Camp 2021
+
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@
 
 
 ## Project Proposal
-For our project, we wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program (SNAP), which provides food benefits to help people purchase food at the grocery store. Three datasets were merged, munged, shaped and visualized to understand how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
+We wanted to understand if usage of California's CalFresh program surged as a result of increased COVID-19 infection rates. CalFresh is California's implementation of the Federal Supplemental Nutrition Assistance Program (SNAP), which provides food benefits to help people purchase food at the grocery store. Three datasets were merged, munged, shaped and visualized to understand how COVID affected various counties and the relationship of COVID to employment, population and usage of CalFresh benefits.
 
 ###### Scope
 Key assumption: As Covid infection rates increased, so did usage of CalFresh benefits.
@@ -83,10 +83,5 @@ import calendar
 * DeJuan Hall
 * Jackson Freese
 * Siddharth Das
-
-## Author
 * John Chan
 
-## Acknowledgments
-* DeJuan did a great job in cleaning up one of the datasets that was instrumental for the other team members.
-* Key to success was over-communicating with each other, and lending a set of eyes to help your teammate get over a mental block.
